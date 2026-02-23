@@ -1,2 +1,4 @@
-# itlwmPass
+# Itlwmjector
 Easily inject your Wi-Fi profile into itlwm.
+
+Rewrite soon.
