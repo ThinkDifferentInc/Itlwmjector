@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-![itlwmjector showcase](https://github.com/ThinkDifferentInc/Itlwmjector/blob/main/itlwmjectora.png?raw=true)
+![itlwmjector showcase](https://github.com/ThinkDifferentInc/Itlwmjector/blob/main/itlwmjector.png?raw=true)
 
 ---
 
