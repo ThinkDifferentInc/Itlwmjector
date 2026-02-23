@@ -22,11 +22,11 @@ except ImportError:
     sys.exit(1)
 
 console = Console()
-#kernelname = platform.system()
+kernelname = platform.system()
 
-#if kernelname == "Darwin":
- #   console.print(f"[red]This utility does not work under macOS.[/red]")
-  #  sys.exit(1)
+if kernelname == "Darwin":
+    console.print(f"[red]This utility does not work under macOS.[/red]")
+    sys.exit(1)
 
 # Scrape logic
 
