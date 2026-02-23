@@ -28,7 +28,7 @@ if kernelname == "Darwin":
     console.print(f"[red]This utility does not work under macOS.[/red]")
     sys.exit(1)
 
-# Scrape logic
+# scrape logic
 
 def get_wifi_windows():
     networks = []
